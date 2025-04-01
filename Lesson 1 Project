@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang = "en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+    <meta name="author" content="Shresth Jha">
+
+    <title>My Project for the 1st Class</title>
+
+</head>
+
+<body>
+
+    <h1>Introduction to HTML</h1>
+
+    <h2>HTML - Hyper Text Markup Language</h2>
+
+    <h3>
+        Hello, <br>
+        My Name is Shresth Jha <br>
+        I am 12 years old <br>
+        I Study in Class 8th D in Ryan International School <br>
+        I love Coding and I love to learn more about it <br>
+    </h3>
+    <h1> Thank You!!!</h1>
+
+</body>
+
+</html>
+

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="Shresth Jha">
+        <meta name="viewport" content="width=device-width, initial scale=1.0">
+        <title>Project for Lesson 2</title>
+    </head>
+    <body>
+        <h1><B>Introduction to Sports</B></h1>
+        <p> Sports are an essential part of life, promoting physical fitness, teamwork, and discipline. They provide entertainment, competition, and a way to stay active while building important life skills. Whether played for fun or professionally, sports bring people together and foster a spirit of determination and fair play.</p>
+        <h2><b><mark>List of Sports</mark></b></h2>
+            Football<br>
+            Basketball<br>
+            Cricket<br>
+            Tennis<br>
+            Badminton<br>
+            Swimming<br>
+            Athletics<br>
+            Hockey<br>
+            Volleyball<br>
+            Table Tennis<br>
+        <P><strong><i><q>Sports teach us discipline, teamwork, and strategy—it's not just a game, it's a play, a plan, and a way of life.</strong></i></q></P>
+
+    </body>
+</html>

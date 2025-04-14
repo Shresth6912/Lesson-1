@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="Shresth Jha">
+    <title>Lesson 5 After Class Project</title>
+</head>
+<body>
+
+    <header>
+        <u><h1>Welcome to the World of Anime!</h1></u>
+    </header>
+
+    <main>
+        <section>
+            <h2>What is Anime?</h2>
+            <p>Anime is a style of animated storytelling that began in Japan. It features colorful characters, exciting plots, and deep emotions. Anime is popular all over the world among kids, teens, and even adults. There are many anime genres like action, fantasy, romance, and sci-fi. Some famous anime include Naruto, Beyblade, Pokémon, and Dragon Ball Z.</p>
+        </section>
+
+        <section>
+            <h2>Some of the world-wide famous animes</h2>
+            <article>
+                <table border="10">
+                    <tr bgcolor="Cyan">
+                        <th>Anime</th>
+                        <th>Author</th>
+                        <th>Story</th>
+                        <th>Image</th>
+                    </tr>
+                    <tr>
+                        <td><strong>Naruto: Shippuden</a></strong></td>
+                        <td><i>Masashi Kishimoto</i></td>
+                        <td>Naruto Uzumaki, a ninja with a sealed demon fox inside him, dreams of becoming Hokage. He goes on thrilling adventures, faces powerful enemies, and learns about friendship, pain, and destiny.</td>
+                        <td><center><img src="iMAGES FOR THE PROJECT/NAruto 2.jpeg" alt="Naruto"></center></td>
+                    </tr>
+                    <tr>
+                        <td><b>One Piece</b></td>
+                        <td><i>Eiichiro Oda</i></td>
+                        <td>Monkey D. Luffy sets out to become the Pirate King by finding the legendary treasure “One Piece.” Along the way, he forms a diverse crew and faces epic battles in a massive fantasy world full of islands and strange powers.</td>
+                        <td><img src="iMAGES FOR THE PROJECT/One Piece.jpeg" alt="One Piece"></td>
+                    </tr>
+                    <tr>
+                        <td><b>Attack on Titan</b></td>
+                        <td><i>Hajime Isayama</i></td>
+                        <td>Humanity is trapped inside walls, hiding from giant man-eating Titans. Eren Yeager joins the Scout Regiment to fight back but discovers shocking secrets about the Titans and the world they live in.</td>
+                        <td><center><img src="iMAGES FOR THE PROJECT/Attack on Titan.jpeg" alt="Attack on Titan"></center></td>
+                    </tr>
+                    <tr>
+                        <td><b>Demon Slayer</b></td>
+                        <td><i>Koyoharu Gotouge</i></td>
+                        <td>After demons kill Tanjiro’s family and turn his sister into a demon, he becomes a Demon Slayer. His journey is filled with emotional struggles, intense sword fights, and beautifully animated scenes.</td>
+                        <td><center><img src="iMAGES FOR THE PROJECT/Demon Slayer.jpeg" alt="Demon Slayer"></center></td>
+                    </tr>
+                    <tr>
+                        <td><b>Dragon Ball Z</b></td>
+                        <td><i>Akira Toriyama</i></td>
+                        <td>Goku, a Saiyan raised on Earth, fights to protect the planet from powerful foes. As he trains and gets stronger, he discovers more about his alien origin and becomes a legendary warrior.</td>
+                        <td><center><img src="iMAGES FOR THE PROJECT/Dragon Ball Z.jpeg" alt="Dragon Ball Z"></center></td>
+                    </tr>
+                    <tr>
+                        <td><b>Pokémon</b></td>
+                        <td><i>Satoshi Tajiri</i></td>
+                        <td>Ash Ketchum travels the world with Pikachu to become a Pokémon Master. He catches Pokémon, defeats gym leaders, and enters various tournaments in a fun-filled adventure.</td>
+                        <td><center><img src="iMAGES FOR THE PROJECT/Pokemon.jpeg" alt="Pokemon"></center></td>
+                    </tr>
+                    <tr>
+                        <td><b>Beyblade: Metal Fusion</b></td>
+                        <td><i>Takafumi Adachi</i></td>
+                        <td>Gingka Hagane, a brave blader with a strong sense of justice. He owns the powerful Beyblade Storm Pegasus, which holds the power of the cosmic beast Pegasus. Gingka is on a mission to stop an evil organization called Dark Nebula, which is trying to use forbidden Beyblades to gain control over the world.</td>
+                        <td><center><img src="iMAGES FOR THE PROJECT/Beyblade Metal Fusion.jpeg" alt="Beyblade: Metal Fusion"></center></td>
+                    </tr>
+                </table>
+            </article>
+        </section>
+
+        <article>
+            <h1><u>Pokemon</u></h1>
+            <p>Pokémon is one of the most famous anime series in the world. It follows the journey of a young trainer named <strong>Ash Ketchum</strong> and his loyal Pokémon <strong>Pikachu</strong>. Together, they travel across different regions, meet new friends, catch powerful Pokémon, and battle gym leaders to become the greatest Pokémon Master.</p>
+        </article>
+
+        <section>
+            <h2>Regions Explored by Ash Ketchum</h2>
+            <p>In his journey to become a Pokémon Master, Ash Ketchum traveled across many official regions of the Pokémon world, each filled with new adventures, Pokémon species, and unique challenges.</p>
+            <aside>
+                <ol>
+                    <li><strong>Kanto</strong> – The starting region where Ash began his journey with Pikachu.</li>
+                    <li><strong>Johto</strong> – Home to many new Pokémon from Generation II and the Johto League.</li>
+                    <li><strong>Hoenn</strong> – A region filled with water routes, volcanoes, and contests.</li>
+                    <li><strong>Sinnoh</strong> – A snowy region with ancient legends and the powerful Pokémon Dialga and Palkia.</li>
+                    <li><strong>Unova</strong> – A modern and diverse region based on New York, with brand-new Pokémon.</li>
+                    <li><strong>Kalos</strong> – A beautiful region inspired by France, known for Mega Evolutions.</li>
+                    <li><strong>Alola</strong> – A tropical region based on Hawaii, where Ash attended Pokémon School.</li>
+                    <li><strong>Galar</strong> – A region inspired by the UK, where Ash participated in the World Coronation Series.</li>
+                    <li><strong>Paldea</strong> – The latest region introduced in the Pokémon Scarlet and Violet series, inspired by Spain.</li>
+                </ol>
+            </aside>
+
+            <table>
+                <tr>
+                    <td><img src="iMAGES FOR THE PROJECT/Pokemon 1.jpeg" alt="Pokemon"></td>
+                    <td><img src="iMAGES FOR THE PROJECT/Pokemon 2.jpeg" alt="Pokemon"></td>
+                    <td><img src="iMAGES FOR THE PROJECT/Pokemon 3.jpeg" alt="Pokemon"></td>
+                </tr>
+            </table>
+        </section>
+
+        <section>
+            <h2>Pokémon Theme Song</h2>
+            <audio controls autoplay>
+                <source src="Audio/Pokemon.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+        </section>
+
+        <section>
+            <h2>Start of Kalos Region!</h2>
+            <p>Kalos was the region where mega evolution was introduced</p>
+            <center>
+                <iframe 
+                width="800" 
+                height="450" 
+                src="https://www.youtube.com/embed/SeJkcF6gYjA" 
+                title="Pokémon the Series: XY Episode 1 – Kalos, Where Dreams and Adventures Begin!" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen>
+                    </iframe>             
+            </center>
+            <p>Hope you enjoyed this journey through the world of Pokémon. Stay curious, stay adventurous, and never stop exploring!</p>
+        </section>
+    </main>
+
+    <footer>
+        <h1>Thanks for Visiting!</h1>
+    </footer>
+
+</body>
+</html>

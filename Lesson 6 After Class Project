@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>After Class Project Lesson 6</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta name="author" content="Shresth Jha">
+    </head>
+    <body>
+        <h1>Details of Users</h1><br>
+        <form>
+            <fieldset>
+                <legend>Personal Information:</legend>
+                <lebel>First Name:</lebel>
+                <input type="text" id="name" name="name"><br><br>
+                <lebel>Last Name:</lebel>
+                <input type="text" id="Last Name" name="Last Name"><br><br>
+                <lebel>Gender:</lebel><br><br>
+                <input type="radio" name="Gender" value="Female">Female<br><br>
+                <input type="radio" name="Gender" value="Male">Male<br><br>
+                <input type="radio" name="Gender" value="Other">Other<br><br>
+                </select>
+                <lebel>Email:</lebel>
+                <input type="text" id="Email" name="Email"><br><br>
+                <lebel>password:</lebel>
+                <input type="password" id="password" name="password"><br><br>
+                <lebel>Birthday:</lebel>
+                <input type="date" id="birthday" name="birthday"><br><br>
+                <lebel>Address:</lebel><br>
+                <input type="text" placeholder="Enter Description here...." name="Address"> <br><br>  
+                <lebel>Image:</lebel><br><br>
+                <input type="file" id="Choose Your File" Name="File"><br>
+            <center>
+                <button>Submit</button>
+                <button>Review</button>
+            </center>
+            </fieldset>
+        </form>
+    </body>
+</html>

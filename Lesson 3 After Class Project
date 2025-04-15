@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Shresth Jha">
+    <title>Cricket World</title>
+</head>
+<body>
+    <h1>Welcome to the Cricket World</h1>
+    <p>Learn more about the sport of cricket, top teams, famous players, and amazing statistics!</p>
+    <h2>What is Cricket?</h2>
+    <p>Cricket is a bat-and-ball game played between two teams of eleven players each on a field at the center of which is a 22-yard pitch with a wicket at each end, each comprising two bails balanced on three stumps. The batting team scores runs by hitting the ball with the bat and running between the wickets, while the fielding team tries to dismiss the players (get them out) in various ways.</p>
+    <h2>Top Cricket Teams</h2>
+    <table border="10">
+        <tr>
+            <th>Rank</th>
+            <th>Country</th>
+            <th>Captain</th>
+        </tr>
+         <tr>
+                <td>1</td>
+                <td>India</td>
+                <td>Rohit Sharma</td>
+        </tr>
+        <tr>
+                <td>2</td>
+                <td>Australia</td>
+                <td>Pat Cummins</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>England</td>
+            <td>Ben Stokes</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>New Zealand</td>
+            <td>Kane Williamson</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>South Africa</td>
+            <td>Dean Elgar</td>
+        </tr>
+     </table>
+        <h2>Famous Cricket Players</h2>
+        <ul>
+            <li><a href="https://en.wikipedia.org/wiki/Sachin_Tendulkar">Sachin Tendulkar</a> - India</li>
+            <li><a href="https://en.wikipedia.org/wiki/Don_Bradman">Don Bradman</a> - Australia</li>
+            <li><a href="https://en.wikipedia.org/wiki/Viv_Richards">Viv Richards</a> - West Indies</li>
+            <li><a href="https://en.wikipedia.org/wiki/Imran_Khan">Imran Khan</a> - Pakistan</li>
+            <li><a href="https://en.wikipedia.org/wiki/Kumar_Sangakkara">Kumar Sangakkara</a> - Sri Lanka</li>
+        </ul>
+        <h2>Cricket Stats</h2>
+        <p>Here are some of the top cricket records:</p>
+        <ul>
+            <li>Most runs in ODI: <strong>Sachin Tendulkar</strong> with 18,426 runs</li>
+            <li>Most wickets in Test: <strong>Muttiah Muralitharan</strong> with 800 wickets</li>
+            <li>Fastest Century in ODI: <strong>AB de Villiers</strong> in 31 balls</li>
+            <li>Most Sixes in an ODI: <strong>Shahid Afridi</strong> with 351 sixes</li>
+        </ul>
+</body>
+</html>

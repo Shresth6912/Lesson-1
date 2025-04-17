@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Shresth Jha">
+        <title> Lesson 7 After Class Project</title>
+        <style>
+            dt{
+                font-weight: bold;
+                color: lightgreen;
+            }
+            body{
+                background-color: black;
+                color: white;
+            }
+            p{
+                color: white;
+            }
+            h1{
+                color: gold;
+                text-align: center;
+            }
+            h2{
+                color: lightblue;
+            }
+            #a{
+                color:aquamarine
+            }
+        </style>
+    </head>
+    <body>
+        <header> 
+            <h1><u>Harry Potter World!</u></h1>
+        </header>
+        <main>
+            <p>Harry Potter is a magical book series created by <i>J.K. Rowling</i>. It follows the journey of a young wizard, Harry Potter, as he learns about his powers and faces challenges at the Hogwarts School of Witchcraft and Wizardry. The series has captured the hearts of millions of readers around the world, with its themes of friendship, bravery, and the battle between good and evil.</p>
+        </main>
+        <h2>Harry Potter's Series</h2>
+        <p>The Harry Potter series is a popular collection of seven fantasy novels written by J.K. Rowling.</p>
+        <h2 id="a"> The Seven Books in Harry Potter</h2>
+        <dl>
+            <dt> 
+                1. Harry Potter and the Philosopher's Stone (1997) 
+            </dt>
+                <dd> Harry discovers he's a wizard and goes to Hogwarts for the first time.</dd>
+            <dt>
+                2. Harry Potter and the Chamber of Secrets (1998)
+            </dt>
+                <dd><dd>Harry and friends investigate the mysterious happenings at Hogwarts involving a deadly creature.</dd></dd>
+            <dt>
+               3. Harry Potter and the Prisoner of Azkaban (1999)
+            </dt>
+                <dd>Harry learns about his godfather, Sirius Black, who has escaped from Azkaban prison</dd>
+            <dt>
+                4. Harry Potter and the Goblet of Fire (2000)
+            </dt>
+                <dd>Harry competes in the dangerous Triwizard Tournament and faces new threats. </dd>
+            <dt>
+                5. Harry Potter and the Order of the Phoenix (2003)
+            </dt>
+                <dd>Harry forms "Dumbledore's Army" to fight against the growing darkness of Voldemort.</dd>
+            <dt>
+                6. Harry Potter and the Half-Blood Prince (2005)
+            </dt>
+                <dd>Harry learns more about Voldemort's past and prepares for the final battle.</dd>
+            <dt>
+                7. Harry Potter and the Deathly Hallows (2007)
+            </dt>
+                <dd>Harry, Ron, and Hermione go on a dangerous mission to destroy Voldemort’s Horcruxes and defeat him.</dd>
+        </dl>
+    </body>
+</html>    

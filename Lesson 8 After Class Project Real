@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>William Shakespeare</title>
+    <style>
+        body {
+            background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg");
+            background-size: 1500px 1000px;
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        #heading {
+            text-align: center;
+            background: radial-gradient(circle, rgb(255, 204, 0), rgba(255, 196, 0, 0.5), rgba(255, 196, 0, 0.388));
+            color:aliceblue;
+            padding: 20px;
+        }
+
+        p {
+            background-color: rgba(255, 255, 255, 0.8);
+            margin: 20px;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        #table{
+            color:aliceblue
+        }
+        h2{
+            color:antiquewhite;          
+            margin: 20px 10px;
+            padding: 15px 20px;
+            border-radius: 10px;
+        }
+        ol>li{
+            color:aquamarine;
+        }
+        ul>li{
+            color:aqua;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 id="heading">William Shakespeare's World</h1>
+    </header>
+    <article>
+        <p>
+            William Shakespeare was a renowned English playwright and poet, widely regarded as one of the greatest writers in the English language. Born in 1564, he penned 38 plays and 154 sonnets, including iconic works like "Romeo and Juliet", "Hamlet" and "Macbeth". His writings continue to captivate audiences with their complex characters, rich language, and timeless themes. Shakespeare's legacy has endured for centuries, influencing literature, theater, and art.
+        </p>
+    </article>
+    <section id="table">
+        <h2>His Most Famous Works</h2>
+        <article>
+            <ul>
+                <li>Tragedies
+                    <ol>
+                        <li>Romeo and Juliet</li>
+                        <li>Hamlet</li>
+                        <li>Othello</li>
+                    </ol>
+                </li>
+                <li>Comedies
+                    <ol>
+                        <li>The Merchant of Venice</li>
+                        <li>Twelfth Night</li>
+                        <li>As You Like It</li>
+                    </ol>
+                </li>
+                <li>Histories
+                    <ol>
+                        <li>Henry V</li>
+                        <li>Richard III</li>
+                    </ol>
+                </li>
+                <li>Poems
+                    <ol>
+                        <li>My Mistress' Eyes</li>
+                        <li>Shall I Compare Thee to a Summer's Day</li>
+                    </ol>
+                </li>
+            </ul>
+        </article>
+    </section>
+</body>
+</html>

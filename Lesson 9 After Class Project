@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Shresth Jha">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>After Class Project Lesson 9</title>
+        <style>
+            #heading{
+                text-align: center;
+                color:aliceblue;
+                font-size: 50px;
+                text-shadow: 20px 20px 50px white;
+                text-transform: uppercase;
+                text-decoration: underline;
+            }
+            body{
+                background: radial-gradient(circle, black, blue);
+            }
+            #mainp{ 
+                font-size: 20px;
+                color: bisque;
+                text-indent: 20px;
+            }
+            #h2{
+                font-size: 30px;
+                color: cornsilk;
+                box-shadow: 5px 5px 20px white;
+            }
+            #list{
+                color:ghostwhite;
+                font-size: 25px;
+            }
+            #oll{
+                color:aquamarine;
+                font-size: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1 id="heading">The Exciting World of Football</h1>
+        </header>
+        <article>
+            <p id="mainp">
+                Football, also known as soccer in some countries, is one of the most popular sports in the world. Played between two teams of eleven players, it is a game of skill, strategy, and teamwork. The objective is to score goals by getting the ball into the opposing team’s net. Football is loved by millions for its fast pace, thrilling moments, and passionate fans. From local matches to international tournaments like the FIFA World Cup, football brings people together and creates unforgettable memories.
+            </p>
+        </article>
+        <section>
+            <h2 id="h2">Famous Football Tournaments and Players</h2>
+            <article>
+                <ul id="list">
+                    <li>Major Tournaments</li>
+                    <ol id="oll">
+                        <li>FIFA World Cup</li>
+                        <li>UEFA Champions League</li>
+                        <li>Copa America</li>
+                    </ol>
+                    <li>Legendary Players</li>
+                    <ol id="oll">
+                        <li>Pele</li>
+                        <li>Diego Maradona</li>
+                        <li>Lionel Messi</li>
+                        <li>Cristiano Ronaldo</li>
+                    </ol>
+                    <li>Famous Clubs</li>
+                    <ol id="oll">
+                        <li>Real Madrid</li>
+                        <li>FC Barcelona</li>
+                        <li>Manchester United</li>
+                    </ol>
+                    <li>Basic Rules</li>
+                    <ol id="oll">
+                        <li>No handball (except goalkeepers)</li>
+                        <li>Offside rule</li>
+                        <li>Yellow and red cards for fouls</li>
+                    </ol>
+                </ul>
+            </article>
+        </section>
+    </body>
+</html>

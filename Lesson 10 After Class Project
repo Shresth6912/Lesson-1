@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>After Class Project Lesson 10</title>
+        <meta name="charset" content="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Shresth Jha">
+        <style>
+            #main_heading{
+                font-size:50px;
+            }
+
+            *{
+                background-color: aqua;
+            }
+
+            #sub_heading{
+                text-align: center;
+            }
+
+            a{
+                font-size: 20px;
+            }
+
+            a:hover{
+                color:black 
+            }
+
+           #last:hover{
+                font-size: 30px;
+                color:darkgoldenrod;
+            }
+
+        </style>
+    </head>
+    <body>
+    <header>
+        <h1 id="main_heading">Welcome to the Space Explorer's Club</h1>
+    </header>
+    <ul>
+        <li>Moon Missions</li>
+        <li>Mars Rovers</li>
+        <li>International Space Stations</li>
+        <li>Telescopes and Stars</li>
+        <li>Black Hole Mysteries</li>
+    </ul>
+    <p>Space Exploration has always captivated human imagination. It's a journey to unknown!</p>
+    <p>From the Moon to distant galaxies, we continue to explore the vastnessof space.</p>
+    <a href="#">Join our Mission</a> 
+    <a href="#">Latest Space News</a> 
+    <a href="#">Gallery of the Universe</a> 
+    <h1 id="sub_heading">Food Groups</h1>
+    <p>The following nine food groups reflect foods with generally similar nutriional characteristics.</p>
+    <ol>
+        <li>cereals,</li>
+        <li>starchy roots,</li>
+        <li>legumes,</li>
+        <li>vegetables and fruits,</li>
+        <li>sugars, prserves, and syrups,</li>
+        <li>meat, fish, and eggs</li>
+        <li>milk and milk products</li>
+        <li>fats and oils,</li>
+        <li>beverages</li>
+    </ol>
+    <a href="#" id="last">Click here to check the effect</a>
+    </body>
+</html>

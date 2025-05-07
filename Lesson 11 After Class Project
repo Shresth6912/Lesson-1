@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>After Class Project Lesson 11</title>
+        <meta name="charset" content="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Shresth Jha">
+        <style>
+            header {
+            text-align: center;
+            color: rgb(255, 85, 0);
+            font-size: 30px;
+            font-weight: bold;
+            text-shadow: 3px 3px 5px black, 0 0 25px red, 0 0 5px darkred;
+            box-shadow: 5px 5px 15px black;
+            background: radial-gradient(circle, #ffd54f,  #ff7043); 
+            text-transform: uppercase; 
+            border-radius: 50px;
+            }
+
+            header:hover{
+                font-size: 40px;
+                transition: 0.5s ease;
+            }
+            header:hover::after{
+                content: "🍕🔥😋 Enjoy having it!!!";
+                font-size: 40px;
+            }
+
+            body {
+            background: radial-gradient(circle, #c8e6c9, #e0f2f1, #81c784);
+            }
+
+            section>h1{
+            color: darkgreen;
+            font-size: 30px;
+            text-shadow: 5px 5px 10px #333;
+            padding: 10px 20px;
+            border: 2px solid black;
+            background: radial-gradient(circle, #fff3e0, #ffe0b2, #ffcc80);
+            width: 370px;
+            text-align: center;
+            border-radius: 30px;
+            }
+            section > h1::after {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 100%;
+            width: 0;
+            height: 0;
+            background-image: url('https://static.vecteezy.com/system/resources/previews/025/221/306/original/pizza-cartoon-ai-generate-png.png');
+            background-size: cover;
+            background-position: center;
+            transition: 0.5s ease;
+            margin-left: 10px;
+            border-radius: 5px;
+            vertical-align: middle;
+            }
+            section > h1:hover {
+            font-size: 30px;
+            transform: scale(1);
+            }
+            section > h1:hover::after {
+            width: 200px; 
+            height: 250px; 
+            }
+
+            p{
+                font-size: 20px;
+                padding: 10px;
+                border: 2px solid black;
+                background-color: white;    
+                opacity: 0.7;
+                border-radius: 10px;
+                width: 70%
+            }
+
+            footer {
+                text-align: center;
+                font-weight: bold;
+                border: 2px solid black;
+                font-size: 20px;
+                color: black;
+                background: radial-gradient(circle, #ff7043, #ffd54f);
+                padding: 10px;
+                width: 20%;
+                margin: 40px 500px 0px 500px;
+                border-radius: 15px;
+            }
+
+            footer:hover {
+                background-color: #555;
+                color: #fff;
+                font-size: 25px;
+                transition: 0.5s ease;
+            }
+
+            #img{
+            border-radius: 10px;
+            box-shadow: 5px 5px 15px #555;
+            float: right;
+            margin: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>The Tasty History of Pizza</h1>
+        </header>
+        <section>
+            <h1>Ancient Beginning</h1>
+            <img id="img" src="https://thumbs.dreamstime.com/z/piping-hot-pizza-its-melted-cheese-irresistible-aromas-solution-to-any-voracious-desire-delicious-282168727.jpg" alt="Delicious Pizza" width="300px"> 
+            <p>Long before modern pizza, ancient Egyptians, Greeks, and Romans baked flatbreads topped with olive oil, herbs, and cheese.
+                These early dishes were simple, yet they inspired what we now call pizza!</p>   
+            <h1>It's Birthplace: Naples, Italy</h1>
+            
+                <p>
+                  In the 1700s, the people of Naples began adding tomatoes to flatbread, creating the earliest version of modern pizza.
+                  It quickly became a favorite among the working class as a cheap and delicious meal.
+                </p><img id="img" src="https://img.freepik.com/premium-photo/create-detailed-handdrawn-illustration-delicious-pizza-with-all-its-mouthwatering-toppings_388313-2175.jpg
+                " alt="Delicious Pizza" width="300px"> 
+            <h1>The Margherita Pizza</h1>
+                <p>
+                  In 1889, Queen Margherita of Savoy visited Naples and tried the local pizza. 
+                  To honor her, a local chef created the Margherita pizza, topped with tomatoes, mozzarella cheese, and basil to represent the colors of the Italian flag.
+                </p>
+            <h1>Pizza's Journey to America</h1>
+                <p>Italian immigrants brought pizza to America in the early 1900s. The first U.S. pizzeria opened in New York in 1905.
+                    After World War II, pizza exploded in popularity around the globe—with new toppings, crusts, and styles in every country. </p>
+        </section>
+        <footer>
+            Thanks for visting!
+        </footer>
+    </body>
+</html>

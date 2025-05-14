@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>After Class Project L-12</title>
+        <meta name="charset" content="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Shresth Jha">
+        <style>
+            #sticky{
+                position: sticky;
+                border: 5px solid blue;
+                width: 450px;
+                right: 65%;
+                left: 35%;
+                font-size: 50px;
+                top: 15%;
+                text-align: center;
+                background-color: lightblue;
+            }
+            #absolute{
+                position: absolute;
+                top: 350px;
+                left: 100px;
+                font-size: 20px;
+                background-color: lightyellow;
+                border: 2px solid black;
+                padding: 10px;
+            }
+            p{
+                font-size: 20px;;
+            }
+            ul>li{
+                font-size: 20px;
+                position: relative;
+                border: 5px solid darkcyan;
+                text-align: center;
+                border-radius: 20px;
+                left:50px;
+                width: 90%;
+            }
+            h2{
+                font-size: 30px;
+                text-decoration: underline;
+                position: static;
+                border: 5px solid black;
+                width: 350px;
+                text-align:center;
+                border-radius: 50px;
+            }
+            footer>p{
+                font-size: 30px;
+                font-weight: bold;
+                position: fixed;
+                top:0%;
+                border: 5px solid red;
+                background-color: lightgoldenrodyellow;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 id="sticky">The Game of Chess</h1>
+        <br><p>Chess is a strategic board game played between two players. It is one of the most popular and oldest games in the world, with a history of over a thousand years.</p>
+    
+        <h2>Objective of the Game</h2>
+        <p>The main goal in chess is to checkmate your opponent's king. This means putting the king in a position where it is under threat of capture and cannot escape.</p><br>
+    
+        <h2>Chess Pieces</h2>
+        <p>Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns.</p>
+        <ul>
+            <li><strong>King:</strong> The most important piece. The game is lost if the king is checkmated.</li>
+            <li><strong>Queen:</strong> The most powerful piece, able to move in any direction.</li>
+            <li><strong>Rook:</strong> Moves in straight lines horizontally or vertically.</li>
+            <li><strong>Bishop:</strong> Moves diagonally across the board.</li>
+            <li><strong>Knight:</strong> Moves in an ‘L’ shape and can jump over pieces.</li>
+            <li><strong>Pawn:</strong> Moves forward but captures diagonally. Can be promoted to any piece upon reaching the opponent's end of the board.</li>
+        </ul>
+
+        <div id="absolute">
+            👑 The King must be protected at all costs!
+        </div>
+        
+    
+        <h2>Basic Rules</h2>
+        <p>Players alternate turns, moving one piece per turn. A piece may not move to a square occupied by another piece of the same color. Capturing removes the opponent's piece from the board.</p>>
+    
+        <h2>Why Chess is Important</h2>
+        <p>Chess improves critical thinking, concentration, and problem-solving skills. It is widely used in schools to help students enhance their mental abilities.</p>
+        <footer>
+            <p>“When you see a good move, look for a better one.” – Emanuel Lasker</p>
+        </footer>
+    </body>
+</htmL>

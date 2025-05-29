@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>After Class Project L-17</title>
+        <meta charset="utf-8">
+        <meta name="author" content="Shresth Jha">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <style>
+            body {
+                position: relative;
+            }
+            section {
+                padding-top: 100px;
+                height: 500px;
+            }
+        </style>
+    </head>
+    <body data-spy="scroll" data-target="#navbar-example" data-offset="70">
+        <nav id="navbar-example" class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+            <a class="navbar-brand" href="#">Famous Novels</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#harrypotter">Harry Potter</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#sherlock">Sherlock Holmes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#wingsoffire">Wings of Fire</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <div class="container">
+            <section id="harrypotter" class="bg-primary text-white">
+                <h1>Harry Potter</h1>
+                <p>Harry Potter is a globally beloved fantasy book series written by British author J.K. Rowling. It follows the life of a young wizard, Harry, who discovers on his 11th birthday that he is not only a wizard but also famous in the magical world. He attends Hogwarts School of Witchcraft and Wizardry, where he makes lifelong friends like Ron Weasley and Hermione Granger. The series spans seven books, each representing a school year filled with magic, mystery, and danger. The central plot revolves around Harry's battle against the dark wizard Lord Voldemort, who killed his parents. Along the way, Harry uncovers secrets about his past, his connection to Voldemort, and the power of love and friendship. The books blend elements of fantasy, adventure, mystery, and coming-of-age themes. Rowling creates a richly detailed magical world with unique creatures, spells, and powerful artifacts like the Elder Wand and Invisibility Cloak. The story emphasizes courage, loyalty, and the importance of choices over destiny. It has inspired movies, merchandise, theme parks, and millions of fans around the world.</p>
+            </section>
+            <section id="sherlock" class="bg-success text-white">
+                <h1>Sherlock Holmes</h1>
+                <p>Sherlock Holmes is a legendary fictional detective created by Sir Arthur Conan Doyle in the late 19th century. Famous for his extraordinary powers of observation and deduction, Holmes solves complex cases that often leave the police baffled. He resides at 221B Baker Street, London, where he works alongside his loyal friend and assistant, Dr. John Watson. Holmes is known for his use of forensic science, logical reasoning, and disguise techniques long before these became common in criminal investigations. Some of his most famous cases include The Hound of the Baskervilles, A Study in Scarlet, and The Adventure of the Speckled Band. Although brilliant, Holmes is also eccentric and socially detached, often immersed in violin playing or scientific experiments. Watson, a former army doctor, narrates most of the stories and brings warmth and relatability to Holmes’s brilliance. Sherlock Holmes has become an icon in detective fiction and is considered the greatest detective in literature. His adventures have inspired countless adaptations in movies, TV shows, and modern literature.</p>
+            </section>
+            <section id="wingsoffire" class="bg-info text-white">
+                <h1>Wings of Fire</h1>
+                <p>Wings of Fire is the inspirational autobiography of Dr. A.P.J. Abdul Kalam, one of India’s greatest scientists and the 11th President of India. Co-authored with Arun Tiwari, the book narrates Dr. Kalam’s journey from a humble background in Rameswaram to becoming the Missile Man of India. It reflects his deep passion for aerospace engineering and his key role in developing India’s space and defense programs, including the Agni and Prithvi missiles. The book highlights his challenges, failures, and successes, offering powerful life lessons in dedication, hard work, and perseverance. Dr. Kalam shares stories of his mentors and the importance of faith, humility, and science. The title "Wings of Fire" symbolizes the rise of dreams and the courage to achieve them, even against all odds. Written in simple, heartfelt language, the book motivates readers—especially youth—to aim high and serve the nation. It emphasizes values over fame and dreams over fear. "Wings of Fire" remains a must-read for every Indian dreamer.</p>
+            </section>
+        </div>
+    </body>
+</html>

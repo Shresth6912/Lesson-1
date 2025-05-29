@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>After Class Project L-17</title>
+        <meta charset="utf-8">
+        <meta name="author" content="Shresth Jha">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <style>
+            .card{
+                border: 3px solid black;
+            }
+            .card-title{
+                text-align: center;
+            }
+            img{
+                text-align: center;
+            }
+            a{
+                color: white;
+            }
+            .navbar{
+                position: fixed;
+                width: 100%;
+            }
+            img{
+                position: static;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container-fluid bg-white">
+            <nav class="navbar bg-light bg-dark">
+                <div class="container ">
+                    <a class="navbar-brand" href="#Home">Home</a>
+                    <ul class="nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#aboutme">About Me</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#Contact">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav><br><br>
+            <section id="Home">
+            <div class="container bg-danger text-warning my-3" style="padding: 20px; border: 2px solid black; border-radius: 200px;">
+                <h1 class="display 1" style="text-align: center;">All about Myself</h1>
+            </div>
+            <div class="container my-5">
+                <div class="row">
+                    <div class="col-lg-4"></div>
+                    <div class="col-lg-4.3">
+                        <div class="card">
+                            <img src="D:\Shresth Jha\Computer\Codingal Course\Web Development Course\Web Development Course\Lesson 17" alt="My Photo" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">Shresth Jha</h5>
+                                <p class="card-text">Hello! This is Shresth Jha<br>
+                                I am in class 8th in Ryan International School<br>
+                                I like playing cricket</p>
+                                <a href="#" class="btn btn-primary">See Profile</a>
+                            </div>
+                        </div>
+                    </div>
+                </div><br><br><br><br>
+                <hr width="100%" style="border: 2px solid black;">
+            </div>
+            </section>
+            <section id="aboutme"><br><br>
+            <div class="container">
+                <h2 class="text-center">About Me</h2>
+                <p class="text-center">I am a student of Ryan International School, currently in class 8th. I have a keen interest in cricket and enjoy playing it during my free time. I also love coding and learning new technologies.</p>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <img src="https://img.freepik.com/premium-photo/cricket-player-batsman-indian-cricket-sport-cricket-ipl-cricket-world-cup-cricket_1024369-107.jpg?w=2000" alt="Cricket" style="width: 500px;"><br>
+                        <span class="badge badge-info text-dark" style="width: 400px; font-size: 30px; text-align: center;" >
+                            I Love Playing Cricket!!!🏏
+                        </span>
+                    </div>
+                    <div class="col-lg-6"><br><br><br>
+                        <img src="https://static.vecteezy.com/system/resources/previews/002/099/443/non_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg" alt="Coding" style="width: 500px;">
+                        <span class="badge badge-success text-dark" style="width: 300px;font-size: 30px;">I Love Coding!!</span>
+                    </div>
+                </div>
+            </div><br><br>
+            <hr width="90%" style="border: 2px solid black;">
+            </section>
+            <section id="Contact">
+                <div class="container fw-bold" style="text-align: center;">
+                    <h1>Contact</h1>
+                </div>
+                <div class="container"><br><BR><BR>
+                   <h3>My Contact details are as follows-<br>
+                    Phone no.- 9310533553<br>
+                    gmail- adv.meenajha1980@gmail.com</h3>
+                </div>
+            </section>
+        </div>
+    </body>
+</html>
